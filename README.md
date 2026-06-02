@@ -23,7 +23,7 @@ Ce chatbot utilise un modèle de langage local via LM Studio pour répondre à d
 
 1. Clone le repo
 
-git clone https://github.com/TON_USERNAME/mon-chatbot.git
+git clone https://github.com/asim-brss/mon-chatbot.git
 cd mon-chatbot
 
 2. Installe les dépendances
